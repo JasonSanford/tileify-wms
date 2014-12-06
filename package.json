@@ -1,6 +1,6 @@
 {
   "name": "tileify-wms",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fetch slippy map tiles from a WMS map service",
   "main": "index.js",
   "scripts": {
